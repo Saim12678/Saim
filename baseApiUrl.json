@@ -1,4 +1,5 @@
 {
   "caption": "https://saim-api.onrender.com",
-  "font": "https://saim-api.onrender.com"
+  "font": "https://saim-api.onrender.com",
+  "api": "https://saim-gist-api.onrender.com"
 }
