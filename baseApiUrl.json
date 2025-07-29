@@ -2,5 +2,6 @@
   "caption": "https://saim-api.onrender.com",
   "font": "https://saim-api.onrender.com",
   "api": "https://saim-gist-api.onrender.com",
-  "prompt": "https://gemini-prompt-api.onrender.com"
+  "prompt": "https://gemini-prompt-api.onrender.com",
+  "catbox": "https://catbox-api.onrender.com"
 }
